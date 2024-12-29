@@ -2,18 +2,6 @@
 
 This project focuses on classifying Kannada news articles into various categories based on their titles. The model utilizes natural language processing (NLP) techniques to process and analyze text in the Kannada language.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Details](#model-details)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 Classifying Kannada news articles helps users quickly identify the nature of content without reading the entire article. This project demonstrates how titles can be used to categorize articles into predefined categories such as politics, sports, entertainment, technology, etc.
