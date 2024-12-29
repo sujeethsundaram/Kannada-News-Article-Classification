@@ -1,6 +1,6 @@
 # Kannada News Article Classification
 
-This project focuses on classifying Kannada news articles into various categories based on their titles. The model utilizes natural language processing (NLP) techniques to process and analyze text in the Kannada language. 
+This project focuses on classifying Kannada news articles into various categories based on their titles. The model utilizes natural language processing (NLP) techniques to process and analyze text in the Kannada language. This uses DistilBERT by Hugging Face. 
 
 ## Overview
 
@@ -36,8 +36,7 @@ Classifying Kannada news articles helps users quickly identify the nature of con
 ### 6. **Insights and Analytics**
    - Offers insights into news trends and category distributions.
    - Useful for sentiment analysis or tracking the popularity of specific topics.
-
----
+   - 
 ## Dataset
 
 The dataset used for training and testing consists of Kannada news titles labeled with their corresponding categories.
@@ -45,7 +44,8 @@ The dataset used for training and testing consists of Kannada news titles labele
 ### Data Sources:
 - Kannada news portals
 - Open-source datasets
-- Manually labeled data for underrepresented categories
+- AI4Bharat
+- Kaggle
 
 ### Format:
 | Title                             | Category       |
